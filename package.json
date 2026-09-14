@@ -23,5 +23,11 @@
     "eslint": "^9",
     "eslint-config-next": "15.1.2",
     "@eslint/eslintrc": "^3"
+  },
+  "overrides": {
+    "js-yaml": "4.3.1"
+  },
+  "resolutions": {
+    "js-yaml": "4.3.1"
   }
 }
